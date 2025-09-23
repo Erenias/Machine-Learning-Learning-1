@@ -1,0 +1,13 @@
+Overview
+
+It's your first Kaggle competition for MATH482 course. 
+As you know, we'll use Kaggle competitions throughout the semester to give you hands-on experience with real-world data science problems and provide an opportunity to apply the methods we've covered in class.
+
+As we approach the end of the semester, we will be dealing with more complex data sets and difficult problems but for the first competition, the data set that we will use is well-organized, clean and prepared for regression tasks.
+
+
+Objective & Details
+
+Your goal is building a regression model to predict yield value for blueberries based on given data that includes different features related to blueberries.
+
+You will submit output(s) of your model(s) and a Jupyter notebook that includes your all work. This competition will evaluate both model accuracy and your approach to data analysis, interpretation, and coding clarity.
